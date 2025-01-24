@@ -1,0 +1,5 @@
+#!/bin/bash
+touch $1
+touch $2
+echo "garbage1" >> $1
+echo "garbage2" >> $2
